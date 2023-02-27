@@ -1,2 +1,2 @@
 # java_d_02_27
-java dolgozat
+java dolgozat, Paulusz Kristóf
